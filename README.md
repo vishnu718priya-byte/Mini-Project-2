@@ -1,2 +1,2 @@
-# Mini-Project-2
+# Task-1
 Number Game
